@@ -4,7 +4,7 @@ using System.Text;
 
 namespace OPP03G03
 {
-    internal class Shipment
+    public class Shipment
     {
         private string _Trackingcode;
         private string _Description;
